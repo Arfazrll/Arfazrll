@@ -1,34 +1,31 @@
+<img src="https://komarev.com/ghpvc/?username=Arfazrll&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+
 <div align="center">
   
-# 🚀 Syahril Arfian Almazril
+##### Hey there! 👋 I'm 
+## **Syahril Arfian Almazril**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=AI+Research+Engineer+%F0%9F%A7%A0;Machine+Learning+Innovator+%F0%9F%A4%96;Automation+Architect+%E2%9A%A1;Building+Tomorrow's+Intelligence" alt="Dynamic Typing" />
+<br>
+
+![Dynamic Typing](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=AI+Research+Engineer;Machine+Learning+Innovator;Automation+Architect;Building+Tomorrow's+Intelligence)
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling&desc=&descAlignY=0"/>
-</div>
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=arfazrll&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/syahril-arfian-almazril-215a12231)
-[![Email](https://img.shields.io/badge/Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:azril4974@gmail.com)
+![Snake animation](https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg)
 
-</div>
-
+<div>
+  
 ---
 
-## 🎯 **About Me**
+<div align="left">
 
 ```python
-#!/usr/bin/env python3
-"""
-AI Research Engineer Profile
-Building intelligent systems that matter
-"""
 
-class AIResearcher:
+class Aboutme:
     def __init__(self):
         self.name = "Syahril Arfian Almazril"
-        self.current_role = "AI Research Intern @ Cyber Physical System Lab"
+        self.current_role = "AI & Automation Engineer"
         self.education = "Information Technology - Telkom University"
         self.location = "Jakarta, Indonesia 🇮🇩"
         
@@ -42,72 +39,93 @@ class AIResearcher:
     
     def current_focus(self):
         return {
-            "research": "AI-driven IoT systems for real-time monitoring",
+            "research": ["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM"],
+            "tools": ["Python", "TensorFlow", "PyTorch", "OpenCV"],
             "learning": "Advanced transformer architectures & model optimization",
-            "building": "End-to-end ML pipelines with scalable deployment",
+            "building": "End-to-end AI pipelines with scalable deployment",
             "collaborating": "Open-source AI projects & research publications"
         }
     
-    def life_motto(self):
-        return "Code with purpose, innovate with impact 🚀"
+    def specialties(self):
+        return ["Machine Learning", "Computer Vision", "NLP", "MLOps", "IoT Systems"]
 
-# Initialize the journey
-researcher = AIResearcher()
-print(researcher.life_motto())
+researcher = Aboutme()
+print(researcher.specialties())
 ```
 
----
+```
+['Machine Learning', 'Computer Vision', 'NLP', 'MLOps', 'IoT Systems']
+```
+
+  
+## What I'm Looking For
 
 <div align="center">
 
-## 🏆 **Achievements & Recognition**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80"/>
-
-**🥉 Top 6/32**
-<br>
-*Business Case Prototype*
-<br>
-**GENBI UNSHIKA 2025**
-<br>
-`Innovation Excellence`
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/medal.png" width="80"/>
-
-**🏅 Top 15/90**
-<br>
-*Data Mining Competition*
-<br>
-**Telkom University 2024**
-<br>
-`Technical Mastery`
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/education.png" width="80"/>
-
-**🎓 Scholar**
-<br>
-*AI Engineering Program*
-<br>
-**DBS Foundation 2025**
-<br>
-`Future Leader`
-
-</td>
-</tr>
-</table>
+```mermaid
+graph TD
+    A[Open Source Collaboration] --> B[AI/ML Projects]
+    A --> C[Research Opportunities]
+    A --> D[Industry Partnerships]
+    
+    B --> E[Computer Vision]
+    B --> F[Natural Language Processing]
+    B --> G[MLOps & Deployment]
+    
+    C --> H[Academic Publications]
+    C --> I[Conference Presentations]
+    
+    D --> J[Internship Opportunities]
+    D --> K[Mentorship Programs]
+```
 
 </div>
 
----
 
-## 💼 **Professional Journey**
+<div align="right">
+
+## Tech Stack
+
+<p align="right">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-01974D?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"></a>
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
+</p>
+</div>
+
+
+## **Professional Journey**
 
 <div align="center">
 
@@ -140,211 +158,9 @@ timeline
 
 </div>
 
-### 🔬 **Current Positions**
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🧠 **AI Research Intern**
-**Cyber Physical System Laboratory**
-- 🔍 Developing intelligent IoT monitoring systems
-- 🤖 Implementing state-of-the-art ML algorithms  
-- 📊 Real-time data processing & visualization
-- 📝 Contributing to academic research papers
-
-</td>
-<td width="50%">
-
-#### 🛠️ **System Analyst**
-**Advanced Software Engineering Lab**
-- 📋 Requirements analysis & SRS documentation
-- 🏗️ System architecture design with UML
-- 🤝 Cross-functional team collaboration
-- 🎯 Technical liaison & problem solving
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
-
-## 🛠️ **Technology Ecosystem**
-
-### **Core AI/ML Stack**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-
-### **Data Science & Analytics**
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-### **Development & Deployment**
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Additional Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎯 **Real-Time Object Detection**
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-
-Advanced YOLO implementation for live video processing with optimized inference speed and accuracy metrics.
-
-**Key Features:**
-- ⚡ Real-time processing
-- 🎯 Multi-object detection  
-- 📊 Performance analytics
-- 🔧 Custom model fine-tuning
-
-</td>
-<td align="center" width="33%">
-
-### 🖼️ **CNN Image Classifier**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-
-Deep convolutional neural network architecture for multi-class image classification with transfer learning optimization.
-
-**Key Features:**
-- 🧠 Custom CNN architecture
-- 🔄 Transfer learning
-- 📈 Advanced preprocessing
-- 🎨 Data augmentation
-
-</td>
-<td align="center" width="33%">
-
-### 📊 **ML Algorithm Comparison**
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
-
-Comprehensive analysis and comparison of SVM, KNN, and Naive Bayes algorithms with performance benchmarking.
-
-**Key Features:**
-- 🔍 Algorithm comparison
-- 📊 Performance metrics
-- 🎯 Hyperparameter tuning
-- 📈 Visualization suite
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arfazrll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arfazrll&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=default&hide_border=true"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10"/>
-</picture>
-
-### **Contribution Activity**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=github-compact&hide_border=true"/>
-</picture>
-
-</div>
-
----
-
-## 🏅 **Certifications & Credentials**
-
-<div align="center">
-
-<table>
-<tr>
-<th align="center">🌟 Recent Certifications</th>
-<th align="center">🎯 Specialization</th>
-<th align="center">📅 Year</th>
-<th align="center">🏢 Provider</th>
-</tr>
-<tr>
-<td align="center">Data Analyst on Google Cloud</td>
-<td align="center">Cloud Analytics & ML</td>
-<td align="center">2025</td>
-<td align="center">Google Cloud</td>
-</tr>
-<tr>
-<td align="center">Supervised ML: Regression & Classification</td>
-<td align="center">Machine Learning</td>
-<td align="center">2025</td>
-<td align="center">DeepLearning.AI</td>
-</tr>
-<tr>
-<td align="center">Machine Learning Foundation</td>
-<td align="center">AWS ML Services</td>
-<td align="center">2024</td>
-<td align="center">Amazon Web Services</td>
-</tr>
-<tr>
-<td align="center">Machine Learning Modeling</td>
-<td align="center">ML Pipeline Development</td>
-<td align="center">2024</td>
-<td align="center">Dicoding Indonesia</td>
-</tr>
-</table>
-
-**🎓 Additional Learning:**
-`AWS Academy Graduate` • `Python Advanced` • `SQL Fundamentals` • `React Fundamentals`
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 **Let's Build the Future Together**
 
 ### **I'm actively seeking collaborations in:**
 
@@ -387,31 +203,38 @@ Innovation projects
 
 ---
 
-### **Connect & Collaborate**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=github-compact&hide_border=true"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=1"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=default&hide_border=true&cache_bust=1"/>
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=1"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=1"/>
+</picture>
+<br>
+
+---
+
+### 💭 **Connect & Collaborate**
+
+> *"In the intersection of artificial intelligence and human creativity lies the power to solve tomorrow's challenges today. Every line of code is a step toward a more intelligent, automated, and accessible future."*
+
+**🎯 Current Mission:** Building AI systems that bridge the gap between cutting-edge research and real-world impact.
+
+
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/syahril-arfian-almazril-215a12231)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:azril4974@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://personal-iqyuflz4z-arfazrlls-projects.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Follow_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/arfazrl09_)
 
----
 
-### **💭 Personal Philosophy**
-
-> *"In the intersection of artificial intelligence and human creativity lies the power to solve tomorrow's challenges today. Every line of code is a step toward a more intelligent, automated, and accessible future."*
-
-**🎯 Current Mission:** Building AI systems that bridge the gap between cutting-edge research and real-world impact.
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
-</div>
