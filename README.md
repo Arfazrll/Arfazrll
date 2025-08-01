@@ -1,9 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=Arfazrll&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
 
 <div align="center">
+
   
 ##### Hey there! 👋 I'm 
-## **Syahril Arfian Almazril**
+<h1 align="center">Syahril Arfian Almazril</h1>
+<p align="center">
+
 
 <br>
 
