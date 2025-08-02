@@ -10,15 +10,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color==00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%26+Researcher;Automation+Production+Grade+AI+Systems;Transforming+Complex+Data+into+Business+Value;Driving+Innovation+with+Scalable+Solutions)
 
-
-
 <div align="center">
   
 ![Snake animation](https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg)
 
 <div>
   
-<!-- Holographic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="left">
@@ -57,8 +54,28 @@ print(researcher.specialties())
 ```
 
 ```
-['Machine Learning', 'Deep Learning', 'Computer Vision', 'NLP', 'LLM']
+An AI & Automation Engineer building impactful, end-to-end AI systems from data to deployment. My expertise covers Machine Learning, Computer Vision, NLP, and MLOps, using a core stack of Python, TensorFlow, PyTorch, and Docker. I thrive on solving complex challenges and am open to collaboration.
 ```
+
+
+<div align="center">
+
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div>
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,go,nextjs,nodejs,tailwind,fastapi,tensorflow,pytorch,sklearn,opencv,docker,mongodb,git,figma" height="70" />
+</div>
+<br>
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div>
 
 <div align="center">
   
@@ -86,26 +103,8 @@ graph TD
 </div>
 
 <div align="center">
-
-## Tech Stack
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,nextjs,nodejs,tailwind,fastapi,tensorflow,pytorch,sklearn,opencv,docker,mongodb,git,figma" height="70" />
-</div>
-<br>
-
-<div align="center">
   
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-
-<div align="center">
-  
-## **Professional Journey**
+---
 
 <div align="center">
 
@@ -209,4 +208,9 @@ Innovation projects
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:azril4974@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://personal-iqyuflz4z-arfazrlls-projects.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Follow_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/arfazrl09_)
+
+<br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f2k7ierczyo71rybggr4blntw&count=3&width=900)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
