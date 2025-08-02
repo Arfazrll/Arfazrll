@@ -10,7 +10,7 @@
 
 <br>
 
-![Dynamic Typing](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=AI+Research+Engineer;Machine+Learning+Innovator;Automation+Architect;Building+Tomorrow's+Intelligence)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%26+Researcher;Automation+Production+Grade+AI+Systems;Transforming+Complex+Data+into+Business+Value;Driving+Innovation+with+Scalable+Solutions)
 <br>
 
 <div align="center">
@@ -42,22 +42,22 @@ class Aboutme:
     
     def current_focus(self):
         return {
-            "research": ["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM"],
-            "tools": ["Python", "TensorFlow", "PyTorch", "OpenCV"],
-            "learning": "Advanced transformer architectures & model optimization",
-            "building": "End-to-end AI pipelines with scalable deployment",
-            "collaborating": "Open-source AI projects & research publications"
+            "research": ["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM", "Reinforcement Learning"],
+            "tools": ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "Hugging Face", "Keras", "FastAPI"],
+            "learning": "Advanced transformer architectures, multimodal AI, and model optimization for deployment",
+            "building": "End-to-end AI pipelines for real-world applications, from data ingestion to scalable deployment",
+            "collaborating": "Open-source AI projects, publishing research, and contributing to technical communities"
         }
     
     def specialties(self):
-        return ["Machine Learning", "Computer Vision", "NLP", "MLOps", "IoT Systems"]
+        return ["Machine Learning", "Deep Learning", "NLP", "MLOps", "LLM"]
 
 researcher = Aboutme()
 print(researcher.specialties())
 ```
 
 ```
-['Machine Learning', 'Computer Vision', 'NLP', 'MLOps', 'IoT Systems']
+['Machine Learning', 'Deep Learning', 'NLP', 'MLOps', 'LLM']
 ```
 
   
@@ -224,10 +224,9 @@ Innovation projects
 
 ### 💭 **Connect & Collaborate**
 
-> *"In the intersection of artificial intelligence and human creativity lies the power to solve tomorrow's challenges today. Every line of code is a step toward a more intelligent, automated, and accessible future."*
+> *"My work lives at the intersection of data, algorithms, and the physical world. I engineer intelligent systems—from the cloud to the edge—that perceive, reason, and interact with their environment."*
 
-**🎯 Current Mission:** Building AI systems that bridge the gap between cutting-edge research and real-world impact.
-
+**🎯 My Mission:** To deploy autonomous AI that operates safely, efficiently, and delivers tangible value in the most demanding environments.
 
 
 <br>
