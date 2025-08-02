@@ -42,8 +42,8 @@ class Aboutme:
     
     def current_focus(self):
         return {
-            "research":["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM", "Reinforcement Learning"]
-            "tools":["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "Hugging Face", "Keras", "FastAPI"]
+            "research": ["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM", "Reinforcement Learning"]
+            "tools": ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "Hugging Face", "Keras", "FastAPI"]
             "learning": "Advanced transformer architectures, multimodal AI, and model optimization for deployment"
             "building": "End-to-end AI pipelines for real-world applications, from data ingestion to scalable deployment"
             "collaborating": "Open-source AI projects, publishing research, and contributing to technical communities"
