@@ -33,19 +33,19 @@ class Aboutme:
         self.location = "Jakarta, Indonesia 🇮🇩"
         
         self.passion = [
-            "🧠 Deep Learning & Neural Networks",
-            "👁️ Computer Vision & Image Processing", 
-            "🤖 Natural Language Processing",
-            "⚡ MLOps & Production Deployment",
+            "🧠 Deep Learning & Neural Networks"
+            "👁️ Computer Vision & Image Processing" 
+            "🤖 Natural Language Processing"
+            "⚡ MLOps & Production Deployment"
             "🔌 IoT Integration & Automation"
         ]
     
     def current_focus(self):
         return {
-            "research": ["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM", "Reinforcement Learning"],
-            "tools": ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "Hugging Face", "Keras", "FastAPI"],
-            "learning": "Advanced transformer architectures, multimodal AI, and model optimization for deployment",
-            "building": "End-to-end AI pipelines for real-world applications, from data ingestion to scalable deployment",
+            "research":["Deep Learning", "Computer Vision", "Machine Learning", "NLP", "LLM", "Reinforcement Learning"]
+            "tools":["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "Hugging Face", "Keras", "FastAPI"]
+            "learning": "Advanced transformer architectures, multimodal AI, and model optimization for deployment"
+            "building": "End-to-end AI pipelines for real-world applications, from data ingestion to scalable deployment"
             "collaborating": "Open-source AI projects, publishing research, and contributing to technical communities"
         }
     
