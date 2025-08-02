@@ -8,16 +8,18 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%26+Researcher;Automation+Production+Grade+AI+Systems;Transforming+Complex+Data+into+Business+Value;Driving+Innovation+with+Scalable+Solutions)
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color==00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%26+Researcher;Automation+Production+Grade+AI+Systems;Transforming+Complex+Data+into+Business+Value;Driving+Innovation+with+Scalable+Solutions)
+
+
 
 <div align="center">
-
+  
 ![Snake animation](https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg)
 
 <div>
   
----
+<!-- Holographic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="left">
 
@@ -48,14 +50,14 @@ class Aboutme:
         }
     
     def specialties(self):
-        return ["Machine Learning", "Deep Learning", "NLP", "MLOps", "LLM"]
+        return ["Machine Learning", "Deep Learning","Computer Vision", "NLP", "LLM"]
 
 researcher = Aboutme()
 print(researcher.specialties())
 ```
 
 ```
-['Machine Learning', 'Deep Learning', 'NLP', 'MLOps', 'LLM']
+['Machine Learning', 'Deep Learning', 'Computer Vision', 'NLP', 'LLM']
 ```
 
 <div align="center">
@@ -86,11 +88,20 @@ graph TD
 <div align="center">
 
 ## Tech Stack
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,go,nextjs,nodejs,tailwind,fastapi,tensorflow,pytorch,sklearn,opencv,docker,mongodb,git,figma" height="70" />
 </div>
+<br>
 
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
 
 <div align="center">
   
@@ -184,7 +195,7 @@ Innovation projects
 </picture>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 💭 **Connect & Collaborate**
 
@@ -199,4 +210,3 @@ Innovation projects
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://personal-iqyuflz4z-arfazrlls-projects.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Follow_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/arfazrl09_)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
-
