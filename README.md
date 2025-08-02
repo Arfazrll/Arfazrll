@@ -2,11 +2,9 @@
 
 <div align="center">
 
-  
 ##### Hey there! 👋 I'm 
 <h1 align="center">Syahril Arfian Almazril</h1>
 <p align="center">
-
 
 <br>
 
@@ -59,7 +57,6 @@ print(researcher.specialties())
 ```
 ['Machine Learning', 'Deep Learning', 'NLP', 'MLOps', 'LLM']
 ```
-
   
 ## What I'm Looking For
 
@@ -83,7 +80,6 @@ graph TD
 ```
 
 </div>
-
 
 <div align="right">
 
@@ -127,7 +123,6 @@ graph TD
 </p>
 </div>
 
-
 ## **Professional Journey**
 
 <div align="center">
@@ -160,8 +155,6 @@ timeline
 ```
 
 </div>
-
-
 
 <div align="center">
 
@@ -228,15 +221,11 @@ Innovation projects
 
 **🎯 My Mission:** To deploy autonomous AI that operates safely, efficiently, and delivers tangible value in the most demanding environments.
 
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/syahril-arfian-almazril-215a12231)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:azril4974@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://personal-iqyuflz4z-arfazrlls-projects.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Follow_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/arfazrl09_)
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
