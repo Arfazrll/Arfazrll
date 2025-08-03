@@ -137,46 +137,6 @@ timeline
 
 </div>
 
-<div align="center">
-
-### **I'm actively seeking collaborations in:**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="64"/>
-
-**🧠 AI Research**
-Open-source ML projects
-Academic publications
-Novel algorithm development
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/internet-of-things.png" width="64"/>
-
-**🔌 IoT Integration**
-Smart system development
-Real-time monitoring
-Edge AI deployment
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="64"/>
-
-**🤝 Open Source**
-Community contributions
-Code reviews & mentoring
-Tech talks & workshops
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/rocket.png" width="64"/>
-
-**🚀 Startups**
-MVP development
-Technical consulting
-Innovation projects
-</td>
-</tr>
-</table>
 
 ---
 
@@ -193,6 +153,75 @@ Innovation projects
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=1"/>
 </picture>
 <br>
+
+<div align="center">
+
+### I'm actively seeking collaborations in:
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/brain.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/brain.svg?color=black">
+    <img src="https://api.iconify.design/mdi/brain.svg?color=black" width="64" height="64">
+  </picture>
+  <br>
+  <strong>AI Research & Development</strong>
+  <br><br>
+  <small>
+    Computer Vision Projects<br>
+    NLP & LLM Applications<br>
+    Publishing Research
+  </small>
+</td>
+<td align="center" width="25%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/lan.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/lan.svg?color=black">
+    <img src="https://api.iconify.design/mdi/lan.svg?color=black" width="64" height="64">
+  </picture>
+  <br>
+  <strong>AI & IoT Integration</strong>
+  <br><br>
+  <small>
+    AI-Powered Automation<br>
+    Smart System Integration<br>
+    Real-Time Data Processing
+  </small>
+</td>
+<td align="center" width="25%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/open-source-initiative.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/open-source-initiative.svg?color=black">
+    <img src="https://api.iconify.design/mdi/open-source-initiative.svg?color=black" width="64" height="64">
+  </picture>
+  <br>
+  <strong>Open Source</strong>
+  <br><br>
+  <small>
+    Community Contributions<br>
+    Mentoring & Code Review<br>
+    Developing Useful Tools
+  </small>
+</td>
+<td align="center" width="25%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/rocket-launch.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/rocket-launch.svg?color=black">
+    <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=black" width="64" height="64">
+  </picture>
+  <br>
+  <strong>Startups & Innovation</strong>
+  <br><br>
+  <small>
+    Building & Scaling MVPs<br>
+    AI-as-a-Service Consulting<br>
+    Prototyping New Ideas
+  </small>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
