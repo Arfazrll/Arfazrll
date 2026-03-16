@@ -2,13 +2,13 @@
 
 <div align="center">
 
-##### Hey there! 👋 I'm
-
 <h1 align="center">Syahril Arfian Almazril</h1>
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Software+Engineer+%7C+AI+Engineer;Building+Scalable+Systems+%26+Intelligent+Solutions;From+Architecture+to+Algorithms;Engineering+the+Future%2C+One+Commit+at+a+Time)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems)
+
+<br>
 
 ![Snake animation](https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg)
 
@@ -22,46 +22,26 @@
 class SyahrilArfian:
     def __init__(self):
         self.name = "Syahril Arfian Almazril"
-        self.role = ["Software Engineer", "AI Engineer"]
-        self.education = "B.Sc. Information Technology — Telkom University"
-        self.location = "Jakarta, Indonesia 🇮🇩"
+        self.role = ["AI Engineer", "Software Engineer"]
+        self.education = "Information Technology — Telkom University"
+        self.location = "Jakarta, Indonesia"
 
-    def software_engineering(self):
+    def tech(self):
         return {
-            "languages": ["Python", "TypeScript", "Go", "Java", "PHP"],
-            "backend": ["Node.js", "Express", "FastAPI", "Spring Boot", "Laravel", "Django"],
-            "frontend": ["Next.js", "React", "Tailwind CSS"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-            "devops": ["Docker", "CI/CD", "Git", "Linux"],
-            "architecture": ["REST APIs", "Microservices", "Event-Driven", "Clean Architecture"],
+            "languages": ["Python", "TypeScript", "Go", "Java", "Solidity"],
+            "ai_ml": ["TensorFlow", "PyTorch", "LangChain", "OpenCV", "YOLO", "Hugging Face"],
+            "backend": ["Node.js", "FastAPI", "Spring Boot", "Express.js", "Django", "Gin"],
+            "frontend": ["Next.js", "React", "Tailwind CSS", "Three.js"],
+            "infra": ["Docker", "PostgreSQL", "Redis", "Firebase", "Supabase"],
         }
-
-    def ai_engineering(self):
-        return {
-            "domains": ["Computer Vision", "NLP", "LLM", "Reinforcement Learning"],
-            "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face", "Keras"],
-            "tools": ["OpenCV", "LangChain", "MLflow", "FastAPI"],
-            "focus": [
-                "Transformer architectures & multimodal AI",
-                "End-to-end ML pipelines — data ingestion to deployment",
-                "Model optimization & production-grade inference",
-                "IoT × AI integration for edge intelligence",
-            ],
-        }
-
-    def philosophy(self):
-        return "Ship robust software. Deploy intelligent systems. Solve real problems."
 
 me = SyahrilArfian()
-print(me.role)  # ['Software Engineer', 'AI Engineer']
 ```
 
 ```
-A Software Engineer and AI Engineer who designs, builds, and ships end-to-end systems —
-from scalable backend architectures to production ML pipelines. I work across the full
-stack: crafting clean APIs, deploying deep learning models, and wiring intelligence into
-real-world applications. Core expertise spans Full-Stack Development, Machine Learning,
-Computer Vision, NLP, and MLOps.
+AI Engineer and Software Engineer building end-to-end systems — from scalable
+architectures to production ML pipelines. I work across the full stack: designing
+clean APIs, deploying deep learning models, and shipping intelligent solutions.
 ```
 
 </div>
@@ -70,33 +50,40 @@ Computer Vision, NLP, and MLOps.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,go,java,nextjs,nodejs,tailwind,fastapi,spring,django" height="60" />
+<img src="https://skillicons.dev/icons?i=python,ts,go,java,solidity,tensorflow,pytorch,sklearn,opencv,nodejs" height="55" />
 <br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,docker,mongodb,postgres,redis,git,figma" height="60" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask,express,nextjs,react,tailwind,threejs,docker" height="55" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,git,linux,figma,vscode" height="55" />
 
 <br><br>
 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏗️ What I Build
 
 </div>
 
 ```mermaid
 graph LR
-    A[Software Engineering] --> B[Backend Systems]
-    A --> C[Frontend & Full-Stack]
-    A --> D[System Design & APIs]
+    A["Software Engineering"] --> B["Full-Stack Systems"]
+    A --> C["API Design & Architecture"]
+    A --> D["Blockchain / Web3"]
 
-    E[AI Engineering] --> F[Computer Vision]
-    E --> G[NLP & LLM Apps]
-    E --> H[MLOps & Deployment]
+    E["AI Engineering"] --> F["Computer Vision"]
+    E --> G["NLP & LLM / RAG"]
+    E --> H["ML Pipelines & Deployment"]
 
-    B --> I[🚀 Production-Ready<br>Applications]
+    B --> I["Production-Ready\nSolutions"]
     C --> I
     D --> I
     F --> I
@@ -112,7 +99,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Experience Timeline
+## Experience
 
 </div>
 
@@ -121,94 +108,110 @@ timeline
     title Professional Journey
 
     2024 Q2 : Data Entry Assistant
-            : Food & Agriculture Office Bandung
-            : Data Analysis & Reporting
+            : Dinas Pangan & Pertanian Bandung
 
-    2024 Q3 : ML Code Reviewer
-            : Dicoding Academy
-            : Technical Evaluation & Mentoring
+    2024 Q3-Q4 : ML Code Reviewer — Dicoding Academy
+               : IDCamp Scholar — Indosat Ooredoo Hutchison
+               : AIESEC Future Leaders Delegate
 
-    2024 Q4 : IDCamp Scholar
-            : Indosat Ooredoo Hutchison
-            : ML Engineering Bootcamp
+    2025 Q1 : PR Communication — Youth Ranger Indonesia
+            : Academic Affairs — HMIT Telkom University
 
-    2025 Q1 : Multiple Roles
-            : AI Researcher — CPS Lab
-            : System Analyst — Advanced SE Lab
-            : Project Officer — Digistar Club
+    2025 Q2-Q3 : Computer Vision Researcher — CPS Lab
+               : System Analyst — ASE Lab
+               : AI Developer — HUMIC Research Center
+               : Chief Committee — Digistar Club
+               : DBS Foundation Coding Camp Scholar
 
-    2025 Q2 : Research Focus
-            : Deep Learning & Computer Vision
-            : IoT Integration Projects
-            : Academic Publications
+    2025 Q4 : Research Assistant — CPS Lab
+            : Network Practicum Assistant — IF Lab
+            : Digital Learning Auditor — Dicoding
+
+    2026 Q1 : Ongoing Research & Development
+            : Blockchain & Web3 Exploration
 ```
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🔭 Open to Collaboration
+## Open to Collaboration
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/code-braces-box.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/code-braces-box.svg?color=black">
-    <img src="https://api.iconify.design/mdi/code-braces-box.svg?color=black" width="64" height="64">
+    <img src="https://api.iconify.design/mdi/code-braces-box.svg?color=black" width="48" height="48">
   </picture>
-  <br>
+  <br><br>
   <strong>Software Development</strong>
   <br><br>
   <small>
     Full-Stack Applications<br>
-    API Design & Microservices<br>
-    Open Source Contributions
+    API & Microservices<br>
+    System Architecture
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/brain.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/brain.svg?color=black">
-    <img src="https://api.iconify.design/mdi/brain.svg?color=black" width="64" height="64">
+    <img src="https://api.iconify.design/mdi/brain.svg?color=black" width="48" height="48">
   </picture>
-  <br>
-  <strong>AI Research & Development</strong>
+  <br><br>
+  <strong>AI Development</strong>
   <br><br>
   <small>
     Computer Vision & NLP<br>
-    LLM Applications<br>
-    Publishing Research
+    LLM / RAG Applications<br>
+    ML Pipeline Engineering
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/lan.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/lan.svg?color=black">
-    <img src="https://api.iconify.design/mdi/lan.svg?color=black" width="64" height="64">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/ethereum.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/ethereum.svg?color=black">
+    <img src="https://api.iconify.design/mdi/ethereum.svg?color=black" width="48" height="48">
   </picture>
-  <br>
-  <strong>AI × IoT Integration</strong>
+  <br><br>
+  <strong>Blockchain & Web3</strong>
   <br><br>
   <small>
-    Edge Intelligence<br>
-    Smart Automation<br>
-    Real-Time Processing
+    Smart Contracts<br>
+    Decentralized Apps<br>
+    Web3 Integration
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/rocket-launch.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/rocket-launch.svg?color=black">
-    <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=black" width="64" height="64">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-box-outline.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/chart-box-outline.svg?color=black">
+    <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=black" width="48" height="48">
   </picture>
-  <br>
-  <strong>Startups & Innovation</strong>
+  <br><br>
+  <strong>Data Science</strong>
   <br><br>
   <small>
-    Building & Scaling MVPs<br>
-    AI-as-a-Service<br>
-    Prototyping Ideas
+    Predictive Modeling<br>
+    Analytics & Visualization<br>
+    Competitive DS
+  </small>
+</td>
+<td align="center" width="20%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/open-source-initiative.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/open-source-initiative.svg?color=black">
+    <img src="https://api.iconify.design/mdi/open-source-initiative.svg?color=black" width="48" height="48">
+  </picture>
+  <br><br>
+  <strong>Open Source</strong>
+  <br><br>
+  <small>
+    Community Projects<br>
+    Code Review & Mentoring<br>
+    Developer Tooling
   </small>
 </td>
 </tr>
@@ -216,7 +219,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Stats
+## Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35"/>
@@ -224,27 +227,26 @@ timeline
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=1"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=default&hide_border=true&cache_bust=1"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=4"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=default&hide_border=true&cache_bust=4"/>
 </picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=1"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=1"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=4"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=4"/>
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 💭 Connect & Collaborate
+---
 
-> *"I engineer systems that think — from robust backend architectures to intelligent models that perceive, reason, and act. My work bridges software craftsmanship with AI innovation."*
-
-**🎯 Mission:** Build software that scales and intelligence that ships.
+> *"Building the bridge between software craftsmanship and artificial intelligence — one system at a time."*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/syahril-arfian-almazril-215a12231)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:azril4974@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://personal-iqyuflz4z-arfazrlls-projects.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Follow_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/arfazrl09_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syahril-arfian-almazril)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azril4974@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syahrilarfianalmazril.vercel.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arfazrll)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arfazrl09_)
 
 <br>
 
