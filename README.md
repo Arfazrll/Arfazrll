@@ -23,7 +23,7 @@ class SyahrilArfian:
     def __init__(self):
         self.name = "Syahril Arfian Almazril"
         self.role = ["AI Engineer", "Software Engineer"]
-        self.education = "Information Technology — Telkom University"
+        self.education = "S1 Information Technology — Telkom University"
         self.location = "Jakarta, Indonesia"
 
     def tech(self):
