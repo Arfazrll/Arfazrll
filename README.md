@@ -230,17 +230,14 @@ timeline
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arfazrll&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B35&cache_bust=4"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arfazrll&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_bust=4"/>
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=4"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=default&hide_border=true&cache_bust=4"/>
-</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=4"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=4"/>
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arfazrll&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"/>
+
 
 </div>
 
