@@ -1,22 +1,16 @@
-<img src="https://komarev.com/ghpvc/?username=Arfazrll&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
-
 <div align="center">
 
-<h1 align="center">Syahril Arfian Almazril</h1>
+<img src="https://komarev.com/ghpvc/?username=Arfazrll&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
 
-<br>
+<h1>Syahril Arfian Almazril</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems)
 
-<br>
-
-![Snake animation](https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
-<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ```python
 class SyahrilArfian:
@@ -44,11 +38,9 @@ architectures to production ML pipelines. I work across the full stack: designin
 clean APIs, deploying deep learning models, and shipping intelligent solutions.
 ```
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Tech Stack
 
@@ -58,7 +50,7 @@ clean APIs, deploying deep learning models, and shipping intelligent solutions.
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,git,linux,figma,vscode" height="55" />
 
-<br><br>
+<br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -69,7 +61,13 @@ clean APIs, deploying deep learning models, and shipping intelligent solutions.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## Focus Areas
 
 </div>
 
@@ -83,7 +81,7 @@ graph LR
     E --> G["NLP & LLM / RAG"]
     E --> H["ML Pipelines & Deployment"]
 
-    B --> I["Production-Ready\nSolutions"]
+    B --> I["Production-Ready<br/>Solutions"]
     C --> I
     D --> I
     F --> I
@@ -95,9 +93,9 @@ graph LR
     style I fill:#0D1117,stroke:#00FF00,color:#00FF00
 ```
 
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
 
 ## Experience
 
@@ -131,9 +129,9 @@ timeline
             : Blockchain & Web3 Exploration
 ```
 
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
 
 ## Open to Collaboration
 
@@ -217,30 +215,42 @@ timeline
 </tr>
 </table>
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Stats
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=github-compact&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arfazrll&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arfazrll&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B35&cache_bust=4"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arfazrll&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_bust=4"/>
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=4"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazrll&theme=default&hide_border=true&cache_bust=4"/>
-</picture><picture>
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=4"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazrll&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=4"/>
 </picture>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Arfazrll&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"/>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<div align="center">
 
-> *"Building the bridge between software craftsmanship and artificial intelligence — one system at a time."*
+<i>"Building the bridge between software craftsmanship and artificial intelligence — one system at a time."</i>
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syahril-arfian-almazril)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azril4974@gmail.com)
@@ -250,7 +260,7 @@ timeline
 
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f2k7ierczyo71rybggr4blntw&count=3&width=900)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=f2k7ierczyo71rybggr4blntw&count=3&width=900)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
