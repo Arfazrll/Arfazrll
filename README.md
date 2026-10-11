@@ -257,7 +257,7 @@ timeline
 
 <br>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=f2k7ierczyo71rybggr4blntw&count=3&width=900)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=f2k7ierczyo71rybggr4blntw&theme=transparent&count=3&width=700&unique=1&duration=1&album=1&footer=wave)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
